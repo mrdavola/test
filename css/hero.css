@@ -15,6 +15,7 @@ h1{
 	font-size:90px;
 	color:white;
 	text-shadow: 0 4px 20px black;
+	
 }
 header img{ 
 	border-radius: 174px;
@@ -34,7 +35,8 @@ img.big-image{
 	max-width: 100%;
 }
 p.caption{
-	font-size: 16px;
+	font-size-adjust: 0.58;
+	
 	color: lightgrey;
 	font-style: italic;
 }
