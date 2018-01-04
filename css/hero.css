@@ -5,17 +5,22 @@ html, body{
 }
 header {
 	background-color: #00004C;
+	background-image: url('../img/pixel-image.jpg');
+	background-repeat: repeat;
+	background-size: 200px;
 	padding: 40px;
 	text-align: center;
 }
 h1{
 	font-size:90px;
 	color:white;
+	text-shadow: 0 4px 20px black;
 }
-header img{
+header img{ 
 	border-radius: 174px;
 	width: 300px;
 	border: 24px solid #CC0000;
+	box-shadow: 0 10px 20px black;
 
 }
 
