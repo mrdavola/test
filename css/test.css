@@ -1,0 +1,29 @@
+body{
+	background-color: lightgrey;
+}
+h1{
+	color: orange;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+#first{
+	font-size:150px;
+} /*only one element can have an id of first for example*/
+
+.small{
+	font-size: 12px;
+} 
+
+h2{
+	font-size: 60px;
+	color: green;
+}
+span{
+	font-style: italic;
+
+}
+h2 span{
+	text-decoration: line-through;
+} /* this will take control of all spans that are inside an h2 tag 
+*/
